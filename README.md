@@ -122,6 +122,12 @@ $ streamlit run app.py
 </p>
 <p align="center">Result With Camera</p>
 
+## Video with Streamlit App
+<p align="center">
+  <img src="Readme_images/video.png">
+</p>
+<p align="center">Result With Video</p>
+
 ## Alerting Email
 <p align="center">
   <img src="Readme_images/4.png">
